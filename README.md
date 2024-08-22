@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Anh Tuấn</h1>
 <h3 align="center">Passionate Software Engineer | Crafting intuitive and dynamic front-end experiences</h3>
-- 📫 How to reach me **doanhtuan52@gmail.com**
+<h4 align="center">**doanhtuan52@gmail.com**</h4>
 
 
 ## 🌐Socials
